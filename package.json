@@ -13,7 +13,7 @@
   "dependencies": {
     "@types/lodash": "^4.14.150",
     "homebridge": "^1.0.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "simple-miio": "BJChen990/simple-miio",
     "ts-node": "^8.10.1",
     "typescript": "^3.8.3"
